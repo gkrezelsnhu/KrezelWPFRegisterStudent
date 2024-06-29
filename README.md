@@ -1,6 +1,5 @@
 # WPF Register Student
 This application is meant to allow students to easily register for courses. It was developed using C#.
----
 ## Summary
 The requirements for this application was to register students for courses with error handling, such as registering for a course that doesn't exist, registering for the same course twice, and registering for more than 9 credit hours. The program also shows the user what courses they are currently registered for as well as how many credit hours they are registered for.
 ## Strengths
